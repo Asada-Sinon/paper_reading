@@ -1,0 +1,9 @@
+{
+  "accentColor": "#d79921",
+  "theme": "obsidian",
+  "cssTheme": "Obsidian gruvbox",
+  "enabledCssSnippets": [
+    "ghostty-match"
+  ],
+  "baseFontSize": 17
+}
