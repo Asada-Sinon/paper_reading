@@ -5,6 +5,7 @@
 | 题目 | LTX-2: Efficient Joint Audio-Visual Foundation Model |
 | 作者 | Yoav HaCohen, Benny Brazowski, Nisan Chiprut, Yaki Bitterman（四位 project lead）+ 25 人团队（按字母序），全部来自 Lightricks |
 | arXiv | [2601.03233](https://arxiv.org/abs/2601.03233)（2026-01-06 提交，cs.CV） |
+| 发布日期 | 2026-01-06（arXiv v1） |
 | 代码 | [github.com/Lightricks/LTX-2](https://github.com/Lightricks/LTX-2)（已验证，实质代码） |
 | 权重 | [huggingface.co/Lightricks/LTX-2](https://huggingface.co/Lightricks/LTX-2)（已验证，19B dev/distilled 全套，不设门槛） |
 | 主页 | [ltx.io](https://ltx.io)（来自 repo homepage 字段） |

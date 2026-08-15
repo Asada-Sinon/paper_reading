@@ -7,7 +7,7 @@
 | arXiv | [2603.19312](https://arxiv.org/abs/2603.19312)（v3, 2026-06-03） |
 | 代码 | [github.com/lucas-maes/le-wm](https://github.com/lucas-maes/le-wm)（MIT，约 4.3k stars） |
 | 主页 | [le-wm.github.io](https://le-wm.github.io) |
-| 精读日期 | 2026-08-15 |
+| 发布日期 | 2026-03-13（arXiv v1） |
 
 **结构速览**（每节在干嘛）：
 

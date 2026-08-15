@@ -8,7 +8,7 @@
 | arXiv | [2608.10860](https://arxiv.org/abs/2608.10860)（v2，2026-08-13） |
 | 项目主页 | https://flex-pi.github.io/ |
 | 代码 | https://github.com/geyan21/flex-pi （截至 2026-08-15 仅有 README，"code is ready soon"） |
-| 精读日期 | 2026-08-15 |
+| 发布日期 | 2026-08-11（arXiv v1） |
 
 **结构速览**
 

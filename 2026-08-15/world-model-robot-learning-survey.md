@@ -1,6 +1,6 @@
 # World Model for Robot Learning: A Comprehensive Survey
 
-> **arXiv**: [2605.00080](https://arxiv.org/abs/2605.00080) ｜ **日期**: 2026-05（v1）
+> **arXiv**: [2605.00080](https://arxiv.org/abs/2605.00080) ｜ **发布日期**: 2026-04-30（arXiv v1） 
 > **作者**: Bohan Hou\*, Gen Li\*, Jindou Jia\*, Tuo An\*, Xinying Guo\*（共同一作，按字母序，均为 NTU）, Sicong Leng (NTU), Haoran Geng (UC Berkeley), Yanjie Ze (Stanford), Tatsuya Harada (UTokyo), Philip Torr (Oxford), Oier Mees (Microsoft), Marc Pollefeys (ETH Zurich), Zhuang Liu (Princeton), Jiajun Wu (Stanford), Pieter Abbeel (UC Berkeley), Jitendra Malik (UC Berkeley), Yilun Du (Harvard), **Jianfei Yang (NTU, 通讯)**
 > **代码/资源**: [GitHub 文献仓库](https://github.com/NTUMARS/Awesome-World-Model-for-Robotics-Policy) ｜ [项目主页](https://ntumars.github.io/wm-robot-survey/)
 > **体裁**: 综述（43 页，无附录；第 32–43 页为参考文献）

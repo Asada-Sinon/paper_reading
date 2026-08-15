@@ -8,7 +8,7 @@
 | **项目主页** | https://opengalaxea.github.io/G05/ |
 | **代码** | [OpenGalaxea/GalaxeaVLA](https://github.com/OpenGalaxea/GalaxeaVLA)（405 个文件的实质仓库） |
 | **权重** | [HuggingFace OpenGalaxea/G05](https://huggingface.co/OpenGalaxea/G05)（g05-base / droid / libero / robotwin20 / so101 + action_tokenizer.pt） |
-| **精读日期** | 2026-08-15 |
+| **发布日期** | 2026-08-12（arXiv v1） |
 
 **结构速览**（每节在干嘛）：
 

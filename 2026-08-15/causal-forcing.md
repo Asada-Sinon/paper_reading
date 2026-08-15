@@ -8,6 +8,7 @@
 | 作者 | Hongzhou Zhu*, Min Zhao*（共同一作）, Guande He, Hang Su, Chongxuan Li, Jun Zhu（通讯） |
 | 单位 | 清华大学（TSAIL/BNRist）、生数科技 ShengShu、UT Austin、中国人民大学高瓴 AI |
 | arXiv | [2602.02214](https://arxiv.org/abs/2602.02214)（v5, 2026-06-01），ICML 2026 |
+| 发布日期 | 2026-02-02（arXiv v1） |
 | 代码 | https://github.com/thu-ml/Causal-Forcing |
 | 项目主页 | https://thu-ml.github.io/CausalForcing.github.io/ |
 

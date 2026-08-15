@@ -9,7 +9,7 @@
 | 代码 | [github.com/Robbyant/lingbot-va](https://github.com/Robbyant/lingbot-va)（Apache-2.0） |
 | 权重 | [HF robbyant/lingbot-va-base](https://huggingface.co/robbyant/lingbot-va-base) 等（详见 5.4） |
 | 项目主页 | [technology.robbyant.com/lingbot-va](https://technology.robbyant.com/lingbot-va) |
-| 精读日期 | 2026-08-15 |
+| 发布日期 | 2026-01-29（arXiv v1） |
 
 **结构速览**（论文正文 31 页）：
 - §1 Introduction：VLA 反应式范式的"表示纠缠"问题 → 自回归视频-动作世界模型的三点动机（反应性、长时记忆、因果性）

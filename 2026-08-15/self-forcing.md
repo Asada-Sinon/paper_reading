@@ -5,7 +5,7 @@
 | 题目 | Self Forcing: Bridging the Train-Test Gap in Autoregressive Video Diffusion |
 | 作者 | Xun Huang¹, Zhengqi Li¹, Guande He², Mingyuan Zhou², Eli Shechtman¹（¹Adobe Research, ²UT Austin） |
 | arXiv | [2506.08009](https://arxiv.org/abs/2506.08009)（v2，NeurIPS 2025） |
-| 日期 | 2025-06（v1）/ 2025-11-10（v2） |
+| 发布日期 | 2025-06-09（arXiv v1） |
 | 代码 | [github.com/guandeh17/Self-Forcing](https://github.com/guandeh17/Self-Forcing)（Apache-2.0） |
 | 主页 | [self-forcing.github.io](https://self-forcing.github.io/) |
 
