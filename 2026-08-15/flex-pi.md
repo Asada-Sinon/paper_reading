@@ -27,15 +27,15 @@
 
 ### 作者背景表（事实）
 
-| 姓名 | 身份/单位 | 主方向 | 代表作/前作 |
-|---|---|---|---|
-| **Ge Yan**（共一，领衔） | UW CS PhD 二年级（导师 Dieter Fox），此前 UCSD MS（导师 Xiaolong Wang）；兼职 Toyota Research Institute LBM 团队 | 机器人基础模型、灵巧操作 | ManiFlow（CoRL 2025 一作，即本文真机 baseline 之一）、DNAct（IROS 2025 Oral 共一）、GNFactor（CoRL 2023 Oral 二作）、Open X-Embodiment（ICRA 2024 最佳论文，合作成员） |
-| **Jinghao Liu**（共一） | UW Allen School 本科毕业生，即将入学 UCSD CS 硕士（导师 Xiaolong Wang） | 机器人学习（自述） | 个人主页仅列本文。**首篇论文** |
-| **Yuzhi Fan**（共一） | 项目页标注 UW，无个人主页/Scholar/OpenReview 档案 | 未找到 | arXiv 检索仅返回本文。**极可能是首篇**（推断依据：无公开学术足迹） |
-| Lei Cai | 项目页标注 UW；同名个人网站显示为西雅图产品/UX 设计师，无学术发表记录（是否同一人未能 100% 确认） | 未找到（学术） | 未找到 |
-| Minwen Liao | 项目页标注 UW，其余未找到 | 未找到 | 未找到 |
-| **Jesse Zhang**（共同通讯） | UW 博士后（导师 Dieter Fox + Abhishek Gupta）；PhD 来自 USC | RL/技能学习 → 近年 VLA | SPRINT、BOSS（CoRL 2023）、EXTRACT（CoRL 2024）、HAMSTER（ICLR 2025，与 Fox 合作的分层 VLA） |
-| **Dieter Fox**（共同通讯） | UW Allen School 教授、RSE Lab 负责人；曾任 NVIDIA 机器人研究高级总监，2025 年 7 月加入 Ai2 领导机器人 foundation model 团队 | 机器人感知与操作；概率机器人（MCL/SLAM）奠基人之一 | RVT / RVT-2（RSS 2024）、HAMSTER（ICLR 2025）、MolmoAct（2025）/ MolmoAct2（2026）、VLA-0 |
+| 姓名                    | 身份/单位                                                                                         | 主方向                           | 代表作/前作                                                                                                                               |
+| --------------------- | --------------------------------------------------------------------------------------------- | ----------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
+| **Ge Yan**（共一，领衔）     | UW CS PhD 二年级（导师 Dieter Fox），此前 UCSD MS（导师 Xiaolong Wang）；兼职 Toyota Research Institute LBM 团队 | 机器人基础模型、灵巧操作                  | ManiFlow（CoRL 2025 一作，即本文真机 baseline 之一）、DNAct（IROS 2025 Oral 共一）、GNFactor（CoRL 2023 Oral 二作）、Open X-Embodiment（ICRA 2024 最佳论文，合作成员） |
+| **Jinghao Liu**（共一）   | UW Allen School 本科毕业生，即将入学 UCSD CS 硕士（导师 Xiaolong Wang）                                       | 机器人学习（自述）                     | 个人主页仅列本文。**首篇论文**                                                                                                                    |
+| **Yuzhi Fan**（共一）     | 项目页标注 UW，无个人主页/Scholar/OpenReview 档案                                                          | 未找到                           | arXiv 检索仅返回本文。**极可能是首篇**（推断依据：无公开学术足迹）                                                                                               |
+| Lei Cai               | 项目页标注 UW；同名个人网站显示为西雅图产品/UX 设计师，无学术发表记录（是否同一人未能 100% 确认）                                       | 未找到（学术）                       | 未找到                                                                                                                                  |
+| Minwen Liao           | 项目页标注 UW，其余未找到                                                                                | 未找到                           | 未找到                                                                                                                                  |
+| **Jesse Zhang**（共同通讯） | UW 博士后（导师 Dieter Fox + Abhishek Gupta）；PhD 来自 USC                                             | RL/技能学习 → 近年 VLA              | SPRINT、BOSS（CoRL 2023）、EXTRACT（CoRL 2024）、HAMSTER（ICLR 2025，与 Fox 合作的分层 VLA）                                                         |
+| **Dieter Fox**（共同通讯）  | UW Allen School 教授、RSE Lab 负责人；曾任 NVIDIA 机器人研究高级总监，2025 年 7 月加入 Ai2 领导机器人 foundation model 团队 | 机器人感知与操作；概率机器人（MCL/SLAM）奠基人之一 | RVT / RVT-2（RSS 2024）、HAMSTER（ICLR 2025）、MolmoAct（2025）/ MolmoAct2（2026）、VLA-0                                                       |
 
 ### 实验室主方向判定（事实 + 推断）
 
